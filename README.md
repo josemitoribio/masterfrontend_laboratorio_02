@@ -8,10 +8,6 @@ Este proyecto es un entorno que incluye implementaciones de diversos ejercicios 
 
   - **02-practica/**: Carpeta donde se subirán próximamente ejercicios adicionales de práctica de JavaScript y TypeScript.
 
-## Requisitos Previos
-
-Asegúrate de tener instalado [Node.js](https://nodejs.org/) en tu máquina.
-
 ## Cómo Arrancar el Proyecto
 
 1. Instala las dependecias
