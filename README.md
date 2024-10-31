@@ -1,12 +1,14 @@
 # **Máster Front End - Módulo 02 - Lenguaje - Laboratorio**
 
-Este proyecto es un entorno que incluye implementaciones de diversos ejercicios con soluciones que están listas para revisión.
+Proyecto de diversos ejercicios con soluciones listas para su revisión.
 
 ## Estructura del Proyecto
 
-  - **01-entregables/**: Carpeta con archivos por cada ejercicio entregable.
+  - **01-entregables/**: Ejercicios entregables.
 
-  - **02-practica/**: Carpeta donde se subirán próximamente ejercicios adicionales de práctica de JavaScript y TypeScript.
+  - **02-practica/**: Ejercicios adicionales de práctica de JavaScript y TypeScript.
+
+   - **03-retos/**: Retos de JavaScript y TypeScript.
 
 ## Cómo Arrancar el Proyecto
 
@@ -22,6 +24,5 @@ Este proyecto es un entorno que incluye implementaciones de diversos ejercicios 
    npm start
 ```
 
-Esto ejecutará el proceso de transpile y levantará un servidor de desarrollo utilizando BrowserSync, accesible en http://localhost:3001 que le indicará un mensaje para que abra la consola del navegador y revise los resultados.
 
 Josemi Toribio

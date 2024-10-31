@@ -5,9 +5,11 @@
     "module": "esnext",
     "moduleResolution": "node",
     "allowJs": true,
-    "outDir": "transpiled"
+    "outDir": "transpiled",                        
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true
   },
   "compileOnSave": true,
   "exclude": ["node_modules"],
-  "include": ["src"]
+  "include": ["src/**/*"]
 }
